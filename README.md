@@ -68,28 +68,27 @@ hobbies:
 
 <p>By combining my technical expertise, problem-solving abilities, and effective communication skills, I strive to provide innovative and reliable cloud solutions that drive business growth and efficiency. I am passionate about staying up to date with the latest advancements in cloud technologies and continuously expanding my knowledge to deliver the best outcomes for my clients.</p>
 
-
-<img align="right"
-     alt="DevOps"
-     width="400"
-     src="./images/DevOps.gif"/>
+<img align="right" alt="DevOps" width="400" src="./images/DevOps.gif"/>
 
 <h2>⚡️ Quick Facts</h2>
-<p>🔭 I'm currently engaged in a <a href="https://github.com/RamazanAtalay/RamazanAtalay"> </a> Microsoft 365 Migration Project, where I am actively involved in the seamless transition of organizations to the Microsoft 365 ecosystem. My responsibilities include assessing existing infrastructures, designing migration strategies, and implementing secure and efficient migrations that optimize productivity and collaboration. </p>
+<p>🔭 I'm currently engaged in a <a href="https://github.com/RamazanAtalay/RamazanAtalay">Microsoft 365 Migration Project</a>, where I am actively involved in the seamless transition of organizations to the Microsoft 365 ecosystem. My responsibilities include assessing existing infrastructures, designing migration strategies, and implementing secure and efficient migrations that optimize productivity and collaboration.</p>
 
-<p>🧐 My learning journey delves deeply into the realm of <strong>cloud security</strong>. By focusing on fortifying the security of cloud systems, my goal is to design and implement robust and resilient cloud solutions that harness the power of cutting-edge technologies. </p>
+<p>🧐 My learning journey delves deeply into the realm of <strong>cloud security</strong>. By focusing on fortifying the security of cloud systems, my goal is to design and implement robust and resilient cloud solutions that harness the power of cutting-edge technologies.</p>
 
-<p>👨‍💻 You can find a majority of my projects on <a href="https://github.com/RamazanAtalay">GitHub</a>, where I actively contribute to open-source projects and showcase my personal coding endeavors. Feel free to explore my repositories to gain insights into my coding practices and the range of projects. </p>
+<p>👨‍💻 You can find a majority of my projects on <a href="https://github.com/RamazanAtalay">GitHub</a>, where I actively contribute to open-source projects and showcase my personal coding endeavors. Feel free to explore my repositories to gain insights into my coding practices and the range of projects.</p>
 
-<p>📝 I have recently begun my writing journey in the realm of <strong>Cloud & DevOps</strong> on <a href="https://ramazanatalay.medium.com">my blog.</a></p>
+<p>📝 I have recently begun my writing journey in the realm of <strong>Cloud & DevOps</strong> on <a href="https://ramazanatalay.medium.com">my blog</a>.</p>
 
 <p>💬 If you have any questions or need assistance regarding Azure, AWS, Terraform, or any other cloud-related topics, don't hesitate to reach out to me. I'm always eager to engage in discussions and provide guidance based on my expertise and experiences in the field.</p>
 
 <p>📙 Don't forget to check out my <a href="https://www.linkedin.com/in/ratalay/">resume</a>, where you can find a comprehensive overview of my skills, experience, and qualifications. It provides a detailed account of my professional journey and showcases the value I can bring to organizations seeking cloud and DevOps expertise.</p>
 
+
+
 <h2>💾 Notable Repositories</h2>
 
-Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Azure DevOps`, `Java-Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, and `Bash Scripting`.
+<p>Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including <code>Kubernetes</code>, <code>Docker</code>, <code>Terraform</code>, <code>Jenkins</code>, <code>Azure DevOps</code>, <code>Java-Maven</code>, <code>Nexus</code>, <code>Prometheus</code>, <code>Grafana</code>, <code>Linux</code>, <code>Python</code>, and <code>Bash Scripting</code>.</p>
+
 
 | Repository Name                                                                   | Description                                                                                                                                     |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
