@@ -1,65 +1,73 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ratalay/"> Ramazan</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ratalay/">Ramazan</a></h1>
 <h3 align="center">Site Reliability Engineer at Loblaw</h3>
+<h3 align="center">Head in the ☁️ and feet on-🏢</h3>
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/ratalay">
-  <img alt="RamazanAtalay's LinkedIn" width="100px" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://ramazanatalay.medium.com">
-  <img alt="RamazanAtalay's Medium" width="100px" height="35px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://twitter.com/RamazanAtalay35">
-  <img alt="RamazanAtalay's Twitter" width="100px" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://dev.to/ramazanatalay">
-  <img alt="RamazanAtalay's Dev" width="100px" height="35px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/ramazanatalay">
-  <img alt="RamazanAtalay's Kaggle" width="100px" height="35px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a>
-<br>
+    <br/>
+    <a href="https://www.linkedin.com/in/ratalay">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ramazan Atalay's LinkedIn" width="100px" height="35px" />
+    </a>
+    <a href="https://ramazanatalay.medium.com">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Ramazan Atalay's Medium" width="100px" height="35px"/>
+    </a>
+    <a href="https://twitter.com/RamazanAtalay35">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ramazan Atalay's Twitter" width="100px" height="35px"/>
+    </a>
+    <a href="https://dev.to/ramazanatalay">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Ramazan Atalay's Dev" width="100px" height="35px"/>
+    </a>
+    <a href="https://www.kaggle.com/ramazanatalay">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Ramazan Atalay's Kaggle" width="100px" height="35px"/>
+    </a>
+    <br>
 </p>
+
 
 ```yaml
 name: Ramazan Atalay
-located_in: Toronto, Canada
-job: Site Reliability Engineer
-company: Loblaw Inc
+location: Toronto, Canada
+job_title: Site Reliability Engineer
+company: Loblaw Inc.
 technical_skills:
-  - ['Cybersecurity, Site Reliability, FinOps']
-  - ['Azure, AWS, GCP - Solution Architect']
-  - ['Terraform, Terraspace, ARM Template, CloudFormation, Ansible']
-  - ['Docker, Azure Container Services, Nexus, Kubernetes']
-  - ['Git, GitHub Actions, Jenkins, Azure DevOps, GitOps']
-  - ['Active Directory, Azure Security, Azure Policy, IAM Identity Center, Security Control Policies, Security Hub']
-past experiences:
-  - ['Cloud and DevOps Engineer, Deop, Toronto, Canada, Feb 2021 - Present']
-  - ['Cloud and DevOps Engineer, TBC, Toronto, Canada, Sep 2019 - Feb 2021']
-  - ['DevOps Engineer Co-Op, TBC, Toronto, Canada, Jan 2019 - Aug 2019']
-  - ['Career Transition, Montreal, Canada, Dec 2017 - Jan 2019']
-  - ['Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017']
-  - ['Research & Teaching Assistant, Georgia State Uni., Atlanta, GA, Aug 2006 - Dec 2012']
-  - ['Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003']
-fields_of_interests: ['Cloud, DevOps, SRE']
-will_learn: ['Microsoft Power Platform']
+  - Cybersecurity, Site Reliability, FinOps
+  - Azure, AWS, GCP - Solution Architect
+  - Terraform, Terraspace, ARM Template, CloudFormation, Ansible
+  - Docker, Azure Container Services, Nexus, Kubernetes
+  - Git, GitHub Actions, Jenkins, Azure DevOps, GitOps
+  - Active Directory, Azure Security, Azure Policy, IAM Identity Center, Security Control Policies, Security Hub
+past_experiences:
+  - Cloud and DevOps Engineer, Deop, Toronto, Canada, Feb 2021 - Present
+  - Cloud and DevOps Engineer, TBC, Toronto, Canada, Sep 2019 - Feb 2021
+  - DevOps Engineer Co-Op, TBC, Toronto, Canada, Jan 2019 - Aug 2019
+  - Career Transition, Montreal, Canada, Dec 2017 - Jan 2019
+  - Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017
+  - Research & Teaching Assistant, Georgia State University, Atlanta, GA, Aug 2006 - Dec 2012
+  - Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003
+fields_of_interest:
+  - Cloud
+  - DevOps
+  - SRE
+plans_to_learn: 
+  - Microsoft Power Platform
 education:
-  - ['Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA']
-  - ['Master of Science (M.Sc.), Physics, GSU, Atlanta, GA']
-  - ['Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey']
-hobbies: ['Movies, Wood Working']
+  - Doctor of Philosophy (Ph.D.), Physics, Georgia State University, Atlanta, GA
+  - Master of Science (M.Sc.), Physics, Georgia State University, Atlanta, GA
+  - Bachelor of Science (B.Sc.), Physics, Middle East Technical University (METU), Ankara, Turkey
+hobbies:
+  - Movies
+  - Woodworking
 ```
 
 
-<p>I'm currently employed as a Site Reliability Engineer at <strong><a href="https://www.loblaw.ca">Loblaw Inc. </a></strong>
 
-</p>
-<p>Before joining Loblaw, I worked as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP </a></strong>, a prominent technology company based in Toronto. In this role, I actively contribute to designing and implementing cloud-based solutions for our clients, leveraging my expertise in cloud architecture, DevOps practices, infrastructure management, and cloud security. I collaborate closely with cross-functional teams, including developers, engineers, and project managers, to deliver scalable and resilient cloud solutions that align with our clients' business objectives </p>
 
-<p>Prior to joining DEOP, I gained valuable experience as a Cloud and DevOps Engineer at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong>, a renowned consulting firm also located in Toronto. During my tenure there, I was responsible for eveloping reusable Terraform modules to enhance consistency and efficiency in infrastructure provisioning across teams and managing AWS services, including IAM, EC2, VPC, ELB, ALB, and Autoscaling, ensuring adherence to best practices and security standards using Terraform. </p>
+<p>I'm currently employed as a Site Reliability Engineer at <strong><a href="https://www.loblaw.ca">Loblaw Inc.</a></strong></p>
+
+<p>Before joining Loblaw, I worked as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP</a></strong>, a prominent technology company based in Toronto. In this role, I actively contributed to designing and implementing cloud-based solutions for our clients, leveraging my expertise in cloud architecture, DevOps practices, infrastructure management, and cloud security. I collaborated closely with cross-functional teams, including developers, engineers, and project managers, to deliver scalable and resilient cloud solutions that align with our clients' business objectives.</p>
+
+<p>Prior to joining DEOP, I gained valuable experience as a Cloud and DevOps Engineer at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting</a></strong>, a renowned consulting firm also located in Toronto. During my tenure there, I was responsible for developing reusable Terraform modules to enhance consistency and efficiency in infrastructure provisioning across teams and managing AWS services, including IAM, EC2, VPC, ELB, ALB, and Autoscaling. I ensured adherence to best practices and security standards using Terraform.</p>
 
 <p>By combining my technical expertise, problem-solving abilities, and effective communication skills, I strive to provide innovative and reliable cloud solutions that drive business growth and efficiency. I am passionate about staying up to date with the latest advancements in cloud technologies and continuously expanding my knowledge to deliver the best outcomes for my clients.</p>
 
-</p>
 
 <img align="right"
      alt="DevOps"
