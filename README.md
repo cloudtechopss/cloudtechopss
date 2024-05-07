@@ -108,16 +108,6 @@ hobbies:
     <li><a target="_blank" href="https://blog.ramazanatalay.com">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
 <p><a target="_blank" href="https://ramazanatalay.medium.com">Read More</a></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
-         alt="RamazanAtalay" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamazanAtalay&show_icons=true&locale=en&count_private=true" alt="RamazanAtalay" /> </p>
-
-<p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay"
-         alt="RamazanAtalay" /></p>
-
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"/></p>

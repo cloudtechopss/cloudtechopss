@@ -12,19 +12,18 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `https://blog.ramazanatalay.com`;
+const BLOG_HOST = `https://ramazanatalay.medium.com`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://ramazanatalay.com/')}`);
-const introDescription = `I'm currently a software engineer at **${generateLink(
-  'Snapchat',
-  'https://www.snapchat.com/'
+const introTitle = generateTitle(2, `Hi :wave:, I'm ${generateLink('Ramazan', 'https://www.linkedin.com/in/ratalay/')}`);
+const introDescription = `I'm currently a Site Reliability Engineer at **${generateLink(
+  "Loblaw",
+  "https://www.loblaw.ca/"
 )}** and formerly at **${generateLink(
-  'AWS',
-  'https://aws.amazon.com/'
-)}** based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.`;
+  "DEOP",
+  "https://www.deop.ca"
+)}** based in 🌁 Toronto.`;
 
-const notice = `🍌 Don't forget to get some Potassium 🍌`;
 
 const badgeConfigs = [
   {
@@ -76,10 +75,9 @@ const factsConfigs = [
   `🔭 I’m currently working on [Cirrus](https://github.com/RamazanAtalay/RamazanAtalay).`,
   `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
   `👨‍💻 Most of my projects are available on [Github](https://github.com/RamazanAtalay).`,
-//   `📝 I regulary write articles on [my blog](${BLOG_HOST}).`,
-  `💬 Ping me about **react, koa, security, and cloud stuff**.`,
+  `📝 I regulary write articles on [my blog](${BLOG_HOST}).`,
+  `💬 Ping me about **cloud`,
   `📙 Check out my [resume](https://www.ramazanatalay.com/resume/resume.pdf).`,
-  `🎉 Fun Fact: 我也会讲中文。`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
@@ -191,9 +189,9 @@ const toolsConfig = [
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?RamazanAtalay&show_icons=true&count_private=true" alt="RamazanAtalay" />`;
 
-const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86)`;
+const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay)`;
 
 (async () => {
   // Get blog entries
@@ -211,7 +209,6 @@ const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spid
   const content = `${introTitle}\n
 ${introDescription}\n
 ${badges}\n
-${notice}\n
 ${gif}\n
 ${factsTitle}\n
 ${facts}\n
